@@ -1,4 +1,4 @@
-# GreenGrocer-Delivery-Project
+# GreenGrocer-Delivery-Application
 <h5><b>Backend Technology: </b></h5>
 <ul>
   <li>SpringBoot</li>
